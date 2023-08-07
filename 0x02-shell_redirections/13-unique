@@ -1,2 +1,2 @@
 #!/bin/bash
-read -p input | unique -u
+read -p input | uniq -u
